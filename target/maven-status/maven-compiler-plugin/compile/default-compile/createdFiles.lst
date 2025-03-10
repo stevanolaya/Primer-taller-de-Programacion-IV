@@ -1,6 +1,6 @@
-com\biblioteca\Computador.class
-com\biblioteca\Libro.class
-com\biblioteca\Recurso.class
-com\biblioteca\Periodico.class
-com\biblioteca\App.class
-com\biblioteca\ServicioBiblioteca.class
+co\edu\ettic\programacion\Recurso.class
+co\edu\ettic\programacion\ServicioBiblioteca.class
+co\edu\ettic\programacion\Periodico.class
+co\edu\ettic\programacion\Computador.class
+co\edu\ettic\programacion\App.class
+co\edu\ettic\programacion\Libro.class
